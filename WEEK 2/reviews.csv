@@ -1,0 +1,1001 @@
+CustomerId,review,stars
+CUST0001,Would not recommend this to anyone.,1
+CUST0002,Had a bad experience. Would not buy again.,1
+CUST0003,Great value for the price. Highly recommend it.,4
+CUST0004,Top-notch product. Excellent customer service as well.,5
+CUST0005,Great value for the price. Highly recommend it.,4
+CUST0006,Fairly priced and average in performance.,2
+CUST0007,Five stars for quality and efficiency.,4
+CUST0008,"Not worth the money, poorly made.",1
+CUST0009,"Terrible product, stopped working after a week.",1
+CUST0010,"Some features are useful, others are not.",3
+CUST0011,Extremely dissatisfied. Waste of money.,2
+CUST0012,Product did not match the description.,1
+CUST0013,Highly durable and easy to use.,4
+CUST0014,"Some features are useful, others are not.",2
+CUST0015,Would not recommend this to anyone.,2
+CUST0016,Top-notch product. Excellent customer service as well.,5
+CUST0017,Had a bad experience. Would not buy again.,1
+CUST0018,This product exceeded my expectations and works flawlessly.,5
+CUST0019,Impressive features and reliable functionality.,4
+CUST0020,Absolutely love it. Will definitely purchase again.,4
+CUST0021,Had a bad experience. Would not buy again.,1
+CUST0022,Extremely dissatisfied. Waste of money.,2
+CUST0023,Highly durable and easy to use.,5
+CUST0024,"Not bad, but not great either.",3
+CUST0025,"Not worth the money, poorly made.",1
+CUST0026,Well built and performs better than expected.,5
+CUST0027,"It works fine, but I was expecting more.",2
+CUST0028,Product did not match the description.,2
+CUST0029,Highly durable and easy to use.,5
+CUST0030,Impressive features and reliable functionality.,4
+CUST0031,Five stars for quality and efficiency.,4
+CUST0032,This product exceeded my expectations and works flawlessly.,4
+CUST0033,Had a bad experience. Would not buy again.,2
+CUST0034,"It works fine, but I was expecting more.",2
+CUST0035,Very disappointed with the quality and support.,1
+CUST0036,Arrived broken and customer support was unhelpful.,2
+CUST0037,"The product is okay, does what it's supposed to.",3
+CUST0038,Quality is subpar and lacks durability.,2
+CUST0039,"It works fine, but I was expecting more.",3
+CUST0040,Highly durable and easy to use.,5
+CUST0041,Quality is subpar and lacks durability.,2
+CUST0042,Product did not match the description.,1
+CUST0043,"The product is okay, does what it's supposed to.",2
+CUST0044,Five stars for quality and efficiency.,5
+CUST0045,Arrived broken and customer support was unhelpful.,1
+CUST0046,Highly durable and easy to use.,4
+CUST0047,It's functional but has its flaws.,3
+CUST0048,Poor performance and unreliable.,2
+CUST0049,Great value for the price. Highly recommend it.,4
+CUST0050,"Terrible product, stopped working after a week.",1
+CUST0051,Impressive features and reliable functionality.,5
+CUST0052,Product is decent but could use improvements.,2
+CUST0053,Would not recommend this to anyone.,1
+CUST0054,Product is decent but could use improvements.,3
+CUST0055,This product exceeded my expectations and works flawlessly.,4
+CUST0056,Extremely dissatisfied. Waste of money.,1
+CUST0057,Highly durable and easy to use.,4
+CUST0058,Great value for the price. Highly recommend it.,5
+CUST0059,The design and usability are outstanding.,5
+CUST0060,Extremely dissatisfied. Waste of money.,1
+CUST0061,"Terrible product, stopped working after a week.",1
+CUST0062,Fairly priced and average in performance.,3
+CUST0063,The design and usability are outstanding.,4
+CUST0064,Well built and performs better than expected.,5
+CUST0065,Quality is subpar and lacks durability.,1
+CUST0066,"Terrible product, stopped working after a week.",2
+CUST0067,Fairly priced and average in performance.,2
+CUST0068,Highly durable and easy to use.,5
+CUST0069,This product exceeded my expectations and works flawlessly.,4
+CUST0070,Arrived broken and customer support was unhelpful.,1
+CUST0071,"Some features are useful, others are not.",3
+CUST0072,Mediocre quality but serves the purpose.,2
+CUST0073,Fairly priced and average in performance.,3
+CUST0074,Five stars for quality and efficiency.,4
+CUST0075,Mediocre quality but serves the purpose.,3
+CUST0076,"It works fine, but I was expecting more.",2
+CUST0077,"Neither good nor bad, just acceptable.",3
+CUST0078,Very satisfied with the quality and performance.,4
+CUST0079,Mediocre quality but serves the purpose.,3
+CUST0080,Five stars for quality and efficiency.,4
+CUST0081,Impressive features and reliable functionality.,4
+CUST0082,The design and usability are outstanding.,5
+CUST0083,"Neither good nor bad, just acceptable.",2
+CUST0084,"It works fine, but I was expecting more.",3
+CUST0085,"It works fine, but I was expecting more.",2
+CUST0086,"Some features are useful, others are not.",3
+CUST0087,Very satisfied with the quality and performance.,5
+CUST0088,"Not bad, but not great either.",3
+CUST0089,Well built and performs better than expected.,5
+CUST0090,"It works fine, but I was expecting more.",2
+CUST0091,It's functional but has its flaws.,3
+CUST0092,This product exceeded my expectations and works flawlessly.,5
+CUST0093,Fairly priced and average in performance.,2
+CUST0094,Absolutely love it. Will definitely purchase again.,5
+CUST0095,Fairly priced and average in performance.,3
+CUST0096,Quality is subpar and lacks durability.,1
+CUST0097,Product did not match the description.,2
+CUST0098,"Terrible product, stopped working after a week.",2
+CUST0099,Product did not match the description.,1
+CUST0100,Quality is subpar and lacks durability.,1
+CUST0101,"The product is okay, does what it's supposed to.",3
+CUST0102,Top-notch product. Excellent customer service as well.,5
+CUST0103,"The product is okay, does what it's supposed to.",2
+CUST0104,"Not worth the money, poorly made.",2
+CUST0105,Quality is subpar and lacks durability.,1
+CUST0106,Product is decent but could use improvements.,2
+CUST0107,"Some features are useful, others are not.",2
+CUST0108,Very disappointed with the quality and support.,2
+CUST0109,Would not recommend this to anyone.,2
+CUST0110,Very satisfied with the quality and performance.,4
+CUST0111,Very satisfied with the quality and performance.,5
+CUST0112,Well built and performs better than expected.,5
+CUST0113,Product is decent but could use improvements.,2
+CUST0114,"Not bad, but not great either.",3
+CUST0115,Great value for the price. Highly recommend it.,4
+CUST0116,Extremely dissatisfied. Waste of money.,2
+CUST0117,This product exceeded my expectations and works flawlessly.,5
+CUST0118,Very satisfied with the quality and performance.,4
+CUST0119,Impressive features and reliable functionality.,5
+CUST0120,"The product is okay, does what it's supposed to.",3
+CUST0121,It's functional but has its flaws.,2
+CUST0122,Would not recommend this to anyone.,1
+CUST0123,Mediocre quality but serves the purpose.,3
+CUST0124,Product did not match the description.,2
+CUST0125,"Terrible product, stopped working after a week.",2
+CUST0126,Would not recommend this to anyone.,2
+CUST0127,Very disappointed with the quality and support.,1
+CUST0128,"Terrible product, stopped working after a week.",1
+CUST0129,"It works fine, but I was expecting more.",3
+CUST0130,"Some features are useful, others are not.",3
+CUST0131,Absolutely love it. Will definitely purchase again.,4
+CUST0132,Extremely dissatisfied. Waste of money.,2
+CUST0133,Well built and performs better than expected.,4
+CUST0134,"Some features are useful, others are not.",2
+CUST0135,Fairly priced and average in performance.,2
+CUST0136,Quality is subpar and lacks durability.,2
+CUST0137,"The product is okay, does what it's supposed to.",3
+CUST0138,"The product is okay, does what it's supposed to.",2
+CUST0139,The design and usability are outstanding.,4
+CUST0140,Product is decent but could use improvements.,2
+CUST0141,"Average experience, nothing special.",3
+CUST0142,Very satisfied with the quality and performance.,4
+CUST0143,Impressive features and reliable functionality.,5
+CUST0144,Highly durable and easy to use.,5
+CUST0145,Extremely dissatisfied. Waste of money.,2
+CUST0146,Great value for the price. Highly recommend it.,4
+CUST0147,"Terrible product, stopped working after a week.",1
+CUST0148,"Some features are useful, others are not.",2
+CUST0149,Absolutely love it. Will definitely purchase again.,4
+CUST0150,This product exceeded my expectations and works flawlessly.,5
+CUST0151,Very disappointed with the quality and support.,1
+CUST0152,Poor performance and unreliable.,1
+CUST0153,Quality is subpar and lacks durability.,1
+CUST0154,Quality is subpar and lacks durability.,2
+CUST0155,Top-notch product. Excellent customer service as well.,5
+CUST0156,Impressive features and reliable functionality.,4
+CUST0157,It's functional but has its flaws.,3
+CUST0158,Great value for the price. Highly recommend it.,4
+CUST0159,"Some features are useful, others are not.",2
+CUST0160,Highly durable and easy to use.,4
+CUST0161,The design and usability are outstanding.,4
+CUST0162,Would not recommend this to anyone.,1
+CUST0163,Great value for the price. Highly recommend it.,4
+CUST0164,Extremely dissatisfied. Waste of money.,2
+CUST0165,"Average experience, nothing special.",2
+CUST0166,Fairly priced and average in performance.,2
+CUST0167,Top-notch product. Excellent customer service as well.,5
+CUST0168,Highly durable and easy to use.,5
+CUST0169,Highly durable and easy to use.,5
+CUST0170,It's functional but has its flaws.,2
+CUST0171,Would not recommend this to anyone.,2
+CUST0172,Top-notch product. Excellent customer service as well.,5
+CUST0173,"It works fine, but I was expecting more.",2
+CUST0174,Product did not match the description.,1
+CUST0175,Poor performance and unreliable.,2
+CUST0176,Great value for the price. Highly recommend it.,4
+CUST0177,Top-notch product. Excellent customer service as well.,4
+CUST0178,Quality is subpar and lacks durability.,2
+CUST0179,"Average experience, nothing special.",2
+CUST0180,Impressive features and reliable functionality.,5
+CUST0181,Top-notch product. Excellent customer service as well.,4
+CUST0182,Impressive features and reliable functionality.,4
+CUST0183,This product exceeded my expectations and works flawlessly.,4
+CUST0184,"Not worth the money, poorly made.",2
+CUST0185,Well built and performs better than expected.,4
+CUST0186,Product is decent but could use improvements.,2
+CUST0187,Impressive features and reliable functionality.,5
+CUST0188,Impressive features and reliable functionality.,4
+CUST0189,Impressive features and reliable functionality.,4
+CUST0190,Quality is subpar and lacks durability.,2
+CUST0191,Great value for the price. Highly recommend it.,4
+CUST0192,The design and usability are outstanding.,5
+CUST0193,Impressive features and reliable functionality.,4
+CUST0194,Highly durable and easy to use.,5
+CUST0195,Top-notch product. Excellent customer service as well.,5
+CUST0196,"Neither good nor bad, just acceptable.",2
+CUST0197,"Terrible product, stopped working after a week.",1
+CUST0198,The design and usability are outstanding.,5
+CUST0199,Quality is subpar and lacks durability.,2
+CUST0200,Product is decent but could use improvements.,2
+CUST0201,Quality is subpar and lacks durability.,2
+CUST0202,"Neither good nor bad, just acceptable.",2
+CUST0203,The design and usability are outstanding.,5
+CUST0204,Very disappointed with the quality and support.,1
+CUST0205,Well built and performs better than expected.,5
+CUST0206,Poor performance and unreliable.,1
+CUST0207,Mediocre quality but serves the purpose.,3
+CUST0208,"Some features are useful, others are not.",3
+CUST0209,Arrived broken and customer support was unhelpful.,2
+CUST0210,Fairly priced and average in performance.,2
+CUST0211,Well built and performs better than expected.,5
+CUST0212,"Some features are useful, others are not.",2
+CUST0213,Impressive features and reliable functionality.,4
+CUST0214,"Some features are useful, others are not.",3
+CUST0215,"The product is okay, does what it's supposed to.",3
+CUST0216,Five stars for quality and efficiency.,4
+CUST0217,"Not worth the money, poorly made.",2
+CUST0218,Fairly priced and average in performance.,2
+CUST0219,The design and usability are outstanding.,5
+CUST0220,Top-notch product. Excellent customer service as well.,4
+CUST0221,Well built and performs better than expected.,5
+CUST0222,Product did not match the description.,1
+CUST0223,"Not bad, but not great either.",3
+CUST0224,Mediocre quality but serves the purpose.,3
+CUST0225,"Neither good nor bad, just acceptable.",3
+CUST0226,Great value for the price. Highly recommend it.,4
+CUST0227,Arrived broken and customer support was unhelpful.,2
+CUST0228,"Not worth the money, poorly made.",2
+CUST0229,Impressive features and reliable functionality.,5
+CUST0230,Impressive features and reliable functionality.,4
+CUST0231,Impressive features and reliable functionality.,5
+CUST0232,Extremely dissatisfied. Waste of money.,2
+CUST0233,"Average experience, nothing special.",2
+CUST0234,The design and usability are outstanding.,4
+CUST0235,Highly durable and easy to use.,5
+CUST0236,"Average experience, nothing special.",2
+CUST0237,Had a bad experience. Would not buy again.,2
+CUST0238,Absolutely love it. Will definitely purchase again.,5
+CUST0239,Great value for the price. Highly recommend it.,4
+CUST0240,Very satisfied with the quality and performance.,5
+CUST0241,The design and usability are outstanding.,4
+CUST0242,Top-notch product. Excellent customer service as well.,4
+CUST0243,Product did not match the description.,1
+CUST0244,Extremely dissatisfied. Waste of money.,1
+CUST0245,Arrived broken and customer support was unhelpful.,2
+CUST0246,Great value for the price. Highly recommend it.,4
+CUST0247,Product is decent but could use improvements.,2
+CUST0248,"Terrible product, stopped working after a week.",2
+CUST0249,Very disappointed with the quality and support.,2
+CUST0250,The design and usability are outstanding.,5
+CUST0251,"Neither good nor bad, just acceptable.",3
+CUST0252,This product exceeded my expectations and works flawlessly.,4
+CUST0253,"Some features are useful, others are not.",3
+CUST0254,Product is decent but could use improvements.,2
+CUST0255,The design and usability are outstanding.,5
+CUST0256,Highly durable and easy to use.,4
+CUST0257,"Neither good nor bad, just acceptable.",2
+CUST0258,It's functional but has its flaws.,2
+CUST0259,Great value for the price. Highly recommend it.,5
+CUST0260,"Neither good nor bad, just acceptable.",2
+CUST0261,Product did not match the description.,2
+CUST0262,"It works fine, but I was expecting more.",2
+CUST0263,Poor performance and unreliable.,1
+CUST0264,"It works fine, but I was expecting more.",3
+CUST0265,Highly durable and easy to use.,4
+CUST0266,Mediocre quality but serves the purpose.,2
+CUST0267,It's functional but has its flaws.,2
+CUST0268,Great value for the price. Highly recommend it.,4
+CUST0269,Mediocre quality but serves the purpose.,3
+CUST0270,Great value for the price. Highly recommend it.,5
+CUST0271,"The product is okay, does what it's supposed to.",2
+CUST0272,The design and usability are outstanding.,5
+CUST0273,Product is decent but could use improvements.,3
+CUST0274,The design and usability are outstanding.,4
+CUST0275,Five stars for quality and efficiency.,5
+CUST0276,"Not worth the money, poorly made.",2
+CUST0277,Highly durable and easy to use.,5
+CUST0278,"Not bad, but not great either.",3
+CUST0279,Well built and performs better than expected.,4
+CUST0280,"Neither good nor bad, just acceptable.",3
+CUST0281,Absolutely love it. Will definitely purchase again.,4
+CUST0282,Had a bad experience. Would not buy again.,2
+CUST0283,"Average experience, nothing special.",3
+CUST0284,Product did not match the description.,2
+CUST0285,"Not worth the money, poorly made.",2
+CUST0286,Poor performance and unreliable.,2
+CUST0287,Very satisfied with the quality and performance.,4
+CUST0288,The design and usability are outstanding.,4
+CUST0289,Five stars for quality and efficiency.,5
+CUST0290,"The product is okay, does what it's supposed to.",2
+CUST0291,"Average experience, nothing special.",2
+CUST0292,"Neither good nor bad, just acceptable.",3
+CUST0293,Very disappointed with the quality and support.,2
+CUST0294,This product exceeded my expectations and works flawlessly.,5
+CUST0295,Five stars for quality and efficiency.,4
+CUST0296,The design and usability are outstanding.,4
+CUST0297,Product did not match the description.,1
+CUST0298,"Terrible product, stopped working after a week.",2
+CUST0299,Product is decent but could use improvements.,2
+CUST0300,"Neither good nor bad, just acceptable.",2
+CUST0301,"Neither good nor bad, just acceptable.",2
+CUST0302,This product exceeded my expectations and works flawlessly.,4
+CUST0303,Extremely dissatisfied. Waste of money.,1
+CUST0304,Extremely dissatisfied. Waste of money.,2
+CUST0305,Absolutely love it. Will definitely purchase again.,4
+CUST0306,"The product is okay, does what it's supposed to.",3
+CUST0307,This product exceeded my expectations and works flawlessly.,4
+CUST0308,Absolutely love it. Will definitely purchase again.,5
+CUST0309,The design and usability are outstanding.,5
+CUST0310,Would not recommend this to anyone.,1
+CUST0311,Impressive features and reliable functionality.,5
+CUST0312,Top-notch product. Excellent customer service as well.,4
+CUST0313,"Average experience, nothing special.",2
+CUST0314,Top-notch product. Excellent customer service as well.,5
+CUST0315,Well built and performs better than expected.,5
+CUST0316,Had a bad experience. Would not buy again.,1
+CUST0317,Five stars for quality and efficiency.,4
+CUST0318,Top-notch product. Excellent customer service as well.,5
+CUST0319,Highly durable and easy to use.,4
+CUST0320,Highly durable and easy to use.,4
+CUST0321,"Some features are useful, others are not.",3
+CUST0322,Had a bad experience. Would not buy again.,1
+CUST0323,Highly durable and easy to use.,5
+CUST0324,Top-notch product. Excellent customer service as well.,4
+CUST0325,Would not recommend this to anyone.,1
+CUST0326,Very satisfied with the quality and performance.,5
+CUST0327,Top-notch product. Excellent customer service as well.,4
+CUST0328,"Average experience, nothing special.",2
+CUST0329,"Some features are useful, others are not.",3
+CUST0330,"Terrible product, stopped working after a week.",1
+CUST0331,Very satisfied with the quality and performance.,4
+CUST0332,Quality is subpar and lacks durability.,2
+CUST0333,Would not recommend this to anyone.,1
+CUST0334,This product exceeded my expectations and works flawlessly.,4
+CUST0335,Product is decent but could use improvements.,2
+CUST0336,"Neither good nor bad, just acceptable.",2
+CUST0337,Quality is subpar and lacks durability.,1
+CUST0338,Quality is subpar and lacks durability.,1
+CUST0339,Very satisfied with the quality and performance.,5
+CUST0340,Arrived broken and customer support was unhelpful.,2
+CUST0341,Well built and performs better than expected.,5
+CUST0342,The design and usability are outstanding.,4
+CUST0343,"Neither good nor bad, just acceptable.",3
+CUST0344,Top-notch product. Excellent customer service as well.,5
+CUST0345,Great value for the price. Highly recommend it.,4
+CUST0346,"Terrible product, stopped working after a week.",2
+CUST0347,"It works fine, but I was expecting more.",3
+CUST0348,Top-notch product. Excellent customer service as well.,4
+CUST0349,Poor performance and unreliable.,1
+CUST0350,It's functional but has its flaws.,3
+CUST0351,"Average experience, nothing special.",3
+CUST0352,"Average experience, nothing special.",2
+CUST0353,"It works fine, but I was expecting more.",3
+CUST0354,Well built and performs better than expected.,4
+CUST0355,Very satisfied with the quality and performance.,5
+CUST0356,Absolutely love it. Will definitely purchase again.,4
+CUST0357,"Average experience, nothing special.",3
+CUST0358,Top-notch product. Excellent customer service as well.,5
+CUST0359,Five stars for quality and efficiency.,4
+CUST0360,Mediocre quality but serves the purpose.,3
+CUST0361,Highly durable and easy to use.,5
+CUST0362,Very disappointed with the quality and support.,2
+CUST0363,Arrived broken and customer support was unhelpful.,1
+CUST0364,Extremely dissatisfied. Waste of money.,2
+CUST0365,Fairly priced and average in performance.,3
+CUST0366,Arrived broken and customer support was unhelpful.,1
+CUST0367,"Average experience, nothing special.",3
+CUST0368,Highly durable and easy to use.,5
+CUST0369,Extremely dissatisfied. Waste of money.,1
+CUST0370,"Some features are useful, others are not.",2
+CUST0371,Arrived broken and customer support was unhelpful.,2
+CUST0372,Very satisfied with the quality and performance.,5
+CUST0373,Had a bad experience. Would not buy again.,1
+CUST0374,Very satisfied with the quality and performance.,4
+CUST0375,Very satisfied with the quality and performance.,4
+CUST0376,Product did not match the description.,2
+CUST0377,"The product is okay, does what it's supposed to.",2
+CUST0378,Product is decent but could use improvements.,3
+CUST0379,"The product is okay, does what it's supposed to.",2
+CUST0380,Quality is subpar and lacks durability.,1
+CUST0381,It's functional but has its flaws.,2
+CUST0382,Very satisfied with the quality and performance.,4
+CUST0383,"Average experience, nothing special.",3
+CUST0384,Top-notch product. Excellent customer service as well.,5
+CUST0385,"Some features are useful, others are not.",2
+CUST0386,"Average experience, nothing special.",2
+CUST0387,"The product is okay, does what it's supposed to.",3
+CUST0388,This product exceeded my expectations and works flawlessly.,5
+CUST0389,Absolutely love it. Will definitely purchase again.,4
+CUST0390,It's functional but has its flaws.,3
+CUST0391,Absolutely love it. Will definitely purchase again.,4
+CUST0392,Would not recommend this to anyone.,1
+CUST0393,Mediocre quality but serves the purpose.,2
+CUST0394,Top-notch product. Excellent customer service as well.,5
+CUST0395,"Some features are useful, others are not.",2
+CUST0396,Quality is subpar and lacks durability.,1
+CUST0397,Would not recommend this to anyone.,1
+CUST0398,Five stars for quality and efficiency.,4
+CUST0399,This product exceeded my expectations and works flawlessly.,5
+CUST0400,Well built and performs better than expected.,5
+CUST0401,Very disappointed with the quality and support.,1
+CUST0402,Highly durable and easy to use.,4
+CUST0403,"Not worth the money, poorly made.",2
+CUST0404,"It works fine, but I was expecting more.",2
+CUST0405,Very disappointed with the quality and support.,1
+CUST0406,Impressive features and reliable functionality.,4
+CUST0407,"Neither good nor bad, just acceptable.",2
+CUST0408,Absolutely love it. Will definitely purchase again.,4
+CUST0409,Product is decent but could use improvements.,3
+CUST0410,Impressive features and reliable functionality.,5
+CUST0411,"Not worth the money, poorly made.",1
+CUST0412,"Not bad, but not great either.",2
+CUST0413,Extremely dissatisfied. Waste of money.,2
+CUST0414,Had a bad experience. Would not buy again.,2
+CUST0415,Top-notch product. Excellent customer service as well.,5
+CUST0416,Product is decent but could use improvements.,2
+CUST0417,This product exceeded my expectations and works flawlessly.,4
+CUST0418,Absolutely love it. Will definitely purchase again.,5
+CUST0419,Had a bad experience. Would not buy again.,2
+CUST0420,"The product is okay, does what it's supposed to.",2
+CUST0421,Product is decent but could use improvements.,2
+CUST0422,Extremely dissatisfied. Waste of money.,2
+CUST0423,Product is decent but could use improvements.,3
+CUST0424,Mediocre quality but serves the purpose.,2
+CUST0425,Would not recommend this to anyone.,1
+CUST0426,"Neither good nor bad, just acceptable.",2
+CUST0427,The design and usability are outstanding.,5
+CUST0428,"Terrible product, stopped working after a week.",2
+CUST0429,Absolutely love it. Will definitely purchase again.,5
+CUST0430,Poor performance and unreliable.,2
+CUST0431,"Terrible product, stopped working after a week.",2
+CUST0432,Had a bad experience. Would not buy again.,2
+CUST0433,This product exceeded my expectations and works flawlessly.,4
+CUST0434,Five stars for quality and efficiency.,5
+CUST0435,Highly durable and easy to use.,4
+CUST0436,Well built and performs better than expected.,4
+CUST0437,Absolutely love it. Will definitely purchase again.,5
+CUST0438,"Terrible product, stopped working after a week.",2
+CUST0439,Great value for the price. Highly recommend it.,4
+CUST0440,Would not recommend this to anyone.,2
+CUST0441,This product exceeded my expectations and works flawlessly.,4
+CUST0442,"Some features are useful, others are not.",2
+CUST0443,Arrived broken and customer support was unhelpful.,1
+CUST0444,The design and usability are outstanding.,4
+CUST0445,Product did not match the description.,2
+CUST0446,Arrived broken and customer support was unhelpful.,1
+CUST0447,Product did not match the description.,2
+CUST0448,The design and usability are outstanding.,4
+CUST0449,This product exceeded my expectations and works flawlessly.,5
+CUST0450,Great value for the price. Highly recommend it.,4
+CUST0451,"Some features are useful, others are not.",3
+CUST0452,Poor performance and unreliable.,2
+CUST0453,Product is decent but could use improvements.,2
+CUST0454,Five stars for quality and efficiency.,4
+CUST0455,"Not bad, but not great either.",2
+CUST0456,"Terrible product, stopped working after a week.",2
+CUST0457,Great value for the price. Highly recommend it.,4
+CUST0458,Well built and performs better than expected.,4
+CUST0459,Quality is subpar and lacks durability.,1
+CUST0460,Poor performance and unreliable.,2
+CUST0461,Impressive features and reliable functionality.,4
+CUST0462,Highly durable and easy to use.,4
+CUST0463,Extremely dissatisfied. Waste of money.,1
+CUST0464,Highly durable and easy to use.,4
+CUST0465,Quality is subpar and lacks durability.,1
+CUST0466,Arrived broken and customer support was unhelpful.,2
+CUST0467,"Not worth the money, poorly made.",1
+CUST0468,Had a bad experience. Would not buy again.,1
+CUST0469,"Average experience, nothing special.",2
+CUST0470,"It works fine, but I was expecting more.",2
+CUST0471,Quality is subpar and lacks durability.,1
+CUST0472,Very satisfied with the quality and performance.,4
+CUST0473,Great value for the price. Highly recommend it.,4
+CUST0474,"The product is okay, does what it's supposed to.",2
+CUST0475,It's functional but has its flaws.,3
+CUST0476,"Neither good nor bad, just acceptable.",2
+CUST0477,Five stars for quality and efficiency.,4
+CUST0478,Very disappointed with the quality and support.,1
+CUST0479,The design and usability are outstanding.,5
+CUST0480,"Average experience, nothing special.",3
+CUST0481,Fairly priced and average in performance.,2
+CUST0482,Five stars for quality and efficiency.,5
+CUST0483,"Average experience, nothing special.",2
+CUST0484,Had a bad experience. Would not buy again.,2
+CUST0485,Poor performance and unreliable.,1
+CUST0486,"Neither good nor bad, just acceptable.",3
+CUST0487,Mediocre quality but serves the purpose.,2
+CUST0488,The design and usability are outstanding.,4
+CUST0489,Product is decent but could use improvements.,2
+CUST0490,This product exceeded my expectations and works flawlessly.,4
+CUST0491,Highly durable and easy to use.,5
+CUST0492,Top-notch product. Excellent customer service as well.,5
+CUST0493,Had a bad experience. Would not buy again.,1
+CUST0494,This product exceeded my expectations and works flawlessly.,5
+CUST0495,Very disappointed with the quality and support.,2
+CUST0496,Absolutely love it. Will definitely purchase again.,4
+CUST0497,"Average experience, nothing special.",3
+CUST0498,Arrived broken and customer support was unhelpful.,1
+CUST0499,Very satisfied with the quality and performance.,5
+CUST0500,Impressive features and reliable functionality.,5
+CUST0501,This product exceeded my expectations and works flawlessly.,4
+CUST0502,Quality is subpar and lacks durability.,2
+CUST0503,"Average experience, nothing special.",2
+CUST0504,Top-notch product. Excellent customer service as well.,4
+CUST0505,Extremely dissatisfied. Waste of money.,1
+CUST0506,Impressive features and reliable functionality.,5
+CUST0507,Very disappointed with the quality and support.,2
+CUST0508,Well built and performs better than expected.,4
+CUST0509,"The product is okay, does what it's supposed to.",2
+CUST0510,Product did not match the description.,2
+CUST0511,"Not bad, but not great either.",2
+CUST0512,Impressive features and reliable functionality.,5
+CUST0513,"Not worth the money, poorly made.",1
+CUST0514,Quality is subpar and lacks durability.,1
+CUST0515,Top-notch product. Excellent customer service as well.,5
+CUST0516,"Some features are useful, others are not.",3
+CUST0517,Five stars for quality and efficiency.,5
+CUST0518,Arrived broken and customer support was unhelpful.,1
+CUST0519,Highly durable and easy to use.,5
+CUST0520,Great value for the price. Highly recommend it.,5
+CUST0521,Had a bad experience. Would not buy again.,2
+CUST0522,"Terrible product, stopped working after a week.",1
+CUST0523,Well built and performs better than expected.,5
+CUST0524,"Some features are useful, others are not.",3
+CUST0525,This product exceeded my expectations and works flawlessly.,4
+CUST0526,"Neither good nor bad, just acceptable.",2
+CUST0527,Quality is subpar and lacks durability.,1
+CUST0528,Had a bad experience. Would not buy again.,2
+CUST0529,Well built and performs better than expected.,5
+CUST0530,Absolutely love it. Will definitely purchase again.,4
+CUST0531,This product exceeded my expectations and works flawlessly.,4
+CUST0532,Impressive features and reliable functionality.,4
+CUST0533,Product did not match the description.,2
+CUST0534,"Average experience, nothing special.",2
+CUST0535,This product exceeded my expectations and works flawlessly.,4
+CUST0536,Poor performance and unreliable.,2
+CUST0537,Very disappointed with the quality and support.,2
+CUST0538,Well built and performs better than expected.,5
+CUST0539,"It works fine, but I was expecting more.",2
+CUST0540,Very disappointed with the quality and support.,1
+CUST0541,Would not recommend this to anyone.,2
+CUST0542,The design and usability are outstanding.,5
+CUST0543,"Some features are useful, others are not.",2
+CUST0544,Well built and performs better than expected.,5
+CUST0545,Top-notch product. Excellent customer service as well.,4
+CUST0546,Very disappointed with the quality and support.,1
+CUST0547,Well built and performs better than expected.,4
+CUST0548,Poor performance and unreliable.,1
+CUST0549,"Not bad, but not great either.",3
+CUST0550,Extremely dissatisfied. Waste of money.,1
+CUST0551,Poor performance and unreliable.,2
+CUST0552,Mediocre quality but serves the purpose.,3
+CUST0553,Impressive features and reliable functionality.,4
+CUST0554,"Average experience, nothing special.",2
+CUST0555,Arrived broken and customer support was unhelpful.,2
+CUST0556,Would not recommend this to anyone.,2
+CUST0557,This product exceeded my expectations and works flawlessly.,4
+CUST0558,Arrived broken and customer support was unhelpful.,1
+CUST0559,Would not recommend this to anyone.,1
+CUST0560,Very disappointed with the quality and support.,1
+CUST0561,Absolutely love it. Will definitely purchase again.,5
+CUST0562,"Terrible product, stopped working after a week.",2
+CUST0563,Great value for the price. Highly recommend it.,4
+CUST0564,Poor performance and unreliable.,2
+CUST0565,"Neither good nor bad, just acceptable.",3
+CUST0566,Top-notch product. Excellent customer service as well.,4
+CUST0567,"Terrible product, stopped working after a week.",2
+CUST0568,Very disappointed with the quality and support.,1
+CUST0569,"Not worth the money, poorly made.",2
+CUST0570,Very satisfied with the quality and performance.,5
+CUST0571,"Not bad, but not great either.",2
+CUST0572,"Terrible product, stopped working after a week.",2
+CUST0573,Would not recommend this to anyone.,2
+CUST0574,Poor performance and unreliable.,1
+CUST0575,Highly durable and easy to use.,5
+CUST0576,Five stars for quality and efficiency.,5
+CUST0577,"The product is okay, does what it's supposed to.",2
+CUST0578,"It works fine, but I was expecting more.",3
+CUST0579,"Not bad, but not great either.",3
+CUST0580,Very satisfied with the quality and performance.,5
+CUST0581,Very satisfied with the quality and performance.,4
+CUST0582,Quality is subpar and lacks durability.,2
+CUST0583,Top-notch product. Excellent customer service as well.,5
+CUST0584,Extremely dissatisfied. Waste of money.,1
+CUST0585,Poor performance and unreliable.,1
+CUST0586,Product is decent but could use improvements.,2
+CUST0587,Product is decent but could use improvements.,3
+CUST0588,"Neither good nor bad, just acceptable.",3
+CUST0589,Quality is subpar and lacks durability.,1
+CUST0590,Mediocre quality but serves the purpose.,2
+CUST0591,Had a bad experience. Would not buy again.,1
+CUST0592,Had a bad experience. Would not buy again.,2
+CUST0593,"Not bad, but not great either.",2
+CUST0594,Mediocre quality but serves the purpose.,2
+CUST0595,"Not worth the money, poorly made.",2
+CUST0596,Great value for the price. Highly recommend it.,5
+CUST0597,Highly durable and easy to use.,5
+CUST0598,Arrived broken and customer support was unhelpful.,1
+CUST0599,The design and usability are outstanding.,4
+CUST0600,Very satisfied with the quality and performance.,5
+CUST0601,Extremely dissatisfied. Waste of money.,1
+CUST0602,"Neither good nor bad, just acceptable.",3
+CUST0603,Five stars for quality and efficiency.,5
+CUST0604,The design and usability are outstanding.,5
+CUST0605,Arrived broken and customer support was unhelpful.,2
+CUST0606,Quality is subpar and lacks durability.,1
+CUST0607,Very disappointed with the quality and support.,1
+CUST0608,"Neither good nor bad, just acceptable.",2
+CUST0609,Impressive features and reliable functionality.,5
+CUST0610,Highly durable and easy to use.,4
+CUST0611,Very satisfied with the quality and performance.,4
+CUST0612,Five stars for quality and efficiency.,4
+CUST0613,Had a bad experience. Would not buy again.,2
+CUST0614,Product is decent but could use improvements.,3
+CUST0615,"Not bad, but not great either.",3
+CUST0616,Very disappointed with the quality and support.,2
+CUST0617,Absolutely love it. Will definitely purchase again.,4
+CUST0618,Product did not match the description.,2
+CUST0619,Very disappointed with the quality and support.,1
+CUST0620,"Not worth the money, poorly made.",2
+CUST0621,"Not worth the money, poorly made.",2
+CUST0622,"Not worth the money, poorly made.",1
+CUST0623,Very satisfied with the quality and performance.,5
+CUST0624,"Neither good nor bad, just acceptable.",2
+CUST0625,It's functional but has its flaws.,3
+CUST0626,Extremely dissatisfied. Waste of money.,2
+CUST0627,This product exceeded my expectations and works flawlessly.,5
+CUST0628,"Average experience, nothing special.",3
+CUST0629,Absolutely love it. Will definitely purchase again.,4
+CUST0630,"Average experience, nothing special.",2
+CUST0631,"Some features are useful, others are not.",2
+CUST0632,Five stars for quality and efficiency.,5
+CUST0633,"Some features are useful, others are not.",3
+CUST0634,"It works fine, but I was expecting more.",2
+CUST0635,This product exceeded my expectations and works flawlessly.,4
+CUST0636,Would not recommend this to anyone.,2
+CUST0637,Absolutely love it. Will definitely purchase again.,5
+CUST0638,Extremely dissatisfied. Waste of money.,2
+CUST0639,Great value for the price. Highly recommend it.,5
+CUST0640,Quality is subpar and lacks durability.,1
+CUST0641,"Not bad, but not great either.",3
+CUST0642,Mediocre quality but serves the purpose.,3
+CUST0643,"Neither good nor bad, just acceptable.",2
+CUST0644,Quality is subpar and lacks durability.,2
+CUST0645,Product did not match the description.,2
+CUST0646,Absolutely love it. Will definitely purchase again.,4
+CUST0647,Highly durable and easy to use.,4
+CUST0648,Had a bad experience. Would not buy again.,2
+CUST0649,"Neither good nor bad, just acceptable.",3
+CUST0650,Arrived broken and customer support was unhelpful.,2
+CUST0651,Very satisfied with the quality and performance.,4
+CUST0652,Poor performance and unreliable.,2
+CUST0653,"Not bad, but not great either.",3
+CUST0654,Extremely dissatisfied. Waste of money.,2
+CUST0655,Arrived broken and customer support was unhelpful.,2
+CUST0656,"The product is okay, does what it's supposed to.",2
+CUST0657,This product exceeded my expectations and works flawlessly.,5
+CUST0658,Very disappointed with the quality and support.,1
+CUST0659,"Some features are useful, others are not.",2
+CUST0660,Product did not match the description.,2
+CUST0661,Great value for the price. Highly recommend it.,5
+CUST0662,"Not bad, but not great either.",3
+CUST0663,Great value for the price. Highly recommend it.,5
+CUST0664,Five stars for quality and efficiency.,4
+CUST0665,Mediocre quality but serves the purpose.,2
+CUST0666,Arrived broken and customer support was unhelpful.,2
+CUST0667,Fairly priced and average in performance.,3
+CUST0668,Product is decent but could use improvements.,3
+CUST0669,It's functional but has its flaws.,2
+CUST0670,Very satisfied with the quality and performance.,5
+CUST0671,Would not recommend this to anyone.,2
+CUST0672,"Terrible product, stopped working after a week.",2
+CUST0673,Top-notch product. Excellent customer service as well.,4
+CUST0674,"It works fine, but I was expecting more.",2
+CUST0675,Fairly priced and average in performance.,2
+CUST0676,"The product is okay, does what it's supposed to.",2
+CUST0677,Very satisfied with the quality and performance.,5
+CUST0678,Very disappointed with the quality and support.,1
+CUST0679,Fairly priced and average in performance.,3
+CUST0680,Top-notch product. Excellent customer service as well.,4
+CUST0681,Fairly priced and average in performance.,2
+CUST0682,Mediocre quality but serves the purpose.,2
+CUST0683,Poor performance and unreliable.,1
+CUST0684,Poor performance and unreliable.,1
+CUST0685,"Not worth the money, poorly made.",2
+CUST0686,"Not worth the money, poorly made.",2
+CUST0687,"Average experience, nothing special.",3
+CUST0688,Mediocre quality but serves the purpose.,2
+CUST0689,This product exceeded my expectations and works flawlessly.,4
+CUST0690,Product is decent but could use improvements.,3
+CUST0691,Mediocre quality but serves the purpose.,2
+CUST0692,Very satisfied with the quality and performance.,5
+CUST0693,Highly durable and easy to use.,5
+CUST0694,Impressive features and reliable functionality.,4
+CUST0695,It's functional but has its flaws.,2
+CUST0696,It's functional but has its flaws.,2
+CUST0697,Product did not match the description.,2
+CUST0698,Arrived broken and customer support was unhelpful.,2
+CUST0699,"Some features are useful, others are not.",2
+CUST0700,Product did not match the description.,2
+CUST0701,Would not recommend this to anyone.,2
+CUST0702,"Terrible product, stopped working after a week.",2
+CUST0703,Poor performance and unreliable.,2
+CUST0704,The design and usability are outstanding.,4
+CUST0705,The design and usability are outstanding.,4
+CUST0706,"It works fine, but I was expecting more.",2
+CUST0707,This product exceeded my expectations and works flawlessly.,5
+CUST0708,It's functional but has its flaws.,2
+CUST0709,Highly durable and easy to use.,4
+CUST0710,Top-notch product. Excellent customer service as well.,4
+CUST0711,Very satisfied with the quality and performance.,5
+CUST0712,This product exceeded my expectations and works flawlessly.,4
+CUST0713,Five stars for quality and efficiency.,5
+CUST0714,This product exceeded my expectations and works flawlessly.,5
+CUST0715,"Terrible product, stopped working after a week.",2
+CUST0716,This product exceeded my expectations and works flawlessly.,5
+CUST0717,Had a bad experience. Would not buy again.,2
+CUST0718,Had a bad experience. Would not buy again.,2
+CUST0719,"Not bad, but not great either.",2
+CUST0720,Poor performance and unreliable.,1
+CUST0721,Highly durable and easy to use.,4
+CUST0722,It's functional but has its flaws.,3
+CUST0723,"It works fine, but I was expecting more.",3
+CUST0724,Great value for the price. Highly recommend it.,4
+CUST0725,"Terrible product, stopped working after a week.",1
+CUST0726,Product is decent but could use improvements.,3
+CUST0727,It's functional but has its flaws.,2
+CUST0728,"Not worth the money, poorly made.",2
+CUST0729,It's functional but has its flaws.,2
+CUST0730,Highly durable and easy to use.,4
+CUST0731,"It works fine, but I was expecting more.",2
+CUST0732,Very disappointed with the quality and support.,1
+CUST0733,Very satisfied with the quality and performance.,4
+CUST0734,Top-notch product. Excellent customer service as well.,4
+CUST0735,It's functional but has its flaws.,3
+CUST0736,"Not bad, but not great either.",3
+CUST0737,It's functional but has its flaws.,3
+CUST0738,The design and usability are outstanding.,5
+CUST0739,Poor performance and unreliable.,1
+CUST0740,"The product is okay, does what it's supposed to.",3
+CUST0741,Arrived broken and customer support was unhelpful.,2
+CUST0742,Mediocre quality but serves the purpose.,2
+CUST0743,"Some features are useful, others are not.",3
+CUST0744,Quality is subpar and lacks durability.,1
+CUST0745,Very disappointed with the quality and support.,1
+CUST0746,Well built and performs better than expected.,5
+CUST0747,Five stars for quality and efficiency.,4
+CUST0748,Would not recommend this to anyone.,1
+CUST0749,This product exceeded my expectations and works flawlessly.,5
+CUST0750,"The product is okay, does what it's supposed to.",3
+CUST0751,Five stars for quality and efficiency.,5
+CUST0752,"Terrible product, stopped working after a week.",1
+CUST0753,The design and usability are outstanding.,5
+CUST0754,Top-notch product. Excellent customer service as well.,4
+CUST0755,Top-notch product. Excellent customer service as well.,4
+CUST0756,Extremely dissatisfied. Waste of money.,1
+CUST0757,Would not recommend this to anyone.,2
+CUST0758,Product did not match the description.,2
+CUST0759,Five stars for quality and efficiency.,5
+CUST0760,Top-notch product. Excellent customer service as well.,5
+CUST0761,"Terrible product, stopped working after a week.",1
+CUST0762,Five stars for quality and efficiency.,4
+CUST0763,Great value for the price. Highly recommend it.,4
+CUST0764,Product did not match the description.,2
+CUST0765,Would not recommend this to anyone.,1
+CUST0766,Product is decent but could use improvements.,2
+CUST0767,Great value for the price. Highly recommend it.,5
+CUST0768,Arrived broken and customer support was unhelpful.,1
+CUST0769,This product exceeded my expectations and works flawlessly.,5
+CUST0770,"Not worth the money, poorly made.",2
+CUST0771,Well built and performs better than expected.,5
+CUST0772,Highly durable and easy to use.,4
+CUST0773,"Not worth the money, poorly made.",1
+CUST0774,Product did not match the description.,2
+CUST0775,Quality is subpar and lacks durability.,2
+CUST0776,Great value for the price. Highly recommend it.,5
+CUST0777,Extremely dissatisfied. Waste of money.,2
+CUST0778,Quality is subpar and lacks durability.,1
+CUST0779,Extremely dissatisfied. Waste of money.,2
+CUST0780,Arrived broken and customer support was unhelpful.,1
+CUST0781,It's functional but has its flaws.,2
+CUST0782,Very satisfied with the quality and performance.,5
+CUST0783,"Average experience, nothing special.",3
+CUST0784,"Some features are useful, others are not.",2
+CUST0785,Fairly priced and average in performance.,3
+CUST0786,Highly durable and easy to use.,4
+CUST0787,Impressive features and reliable functionality.,5
+CUST0788,"Average experience, nothing special.",3
+CUST0789,Highly durable and easy to use.,4
+CUST0790,"Neither good nor bad, just acceptable.",3
+CUST0791,Top-notch product. Excellent customer service as well.,5
+CUST0792,Highly durable and easy to use.,5
+CUST0793,"Some features are useful, others are not.",3
+CUST0794,Highly durable and easy to use.,4
+CUST0795,"The product is okay, does what it's supposed to.",3
+CUST0796,Extremely dissatisfied. Waste of money.,1
+CUST0797,Very disappointed with the quality and support.,2
+CUST0798,Very disappointed with the quality and support.,2
+CUST0799,Arrived broken and customer support was unhelpful.,1
+CUST0800,It's functional but has its flaws.,2
+CUST0801,Well built and performs better than expected.,5
+CUST0802,Very disappointed with the quality and support.,2
+CUST0803,The design and usability are outstanding.,5
+CUST0804,"Neither good nor bad, just acceptable.",3
+CUST0805,Had a bad experience. Would not buy again.,1
+CUST0806,Extremely dissatisfied. Waste of money.,2
+CUST0807,Very satisfied with the quality and performance.,5
+CUST0808,It's functional but has its flaws.,3
+CUST0809,This product exceeded my expectations and works flawlessly.,5
+CUST0810,Top-notch product. Excellent customer service as well.,5
+CUST0811,This product exceeded my expectations and works flawlessly.,4
+CUST0812,It's functional but has its flaws.,2
+CUST0813,Poor performance and unreliable.,1
+CUST0814,Top-notch product. Excellent customer service as well.,5
+CUST0815,"The product is okay, does what it's supposed to.",3
+CUST0816,The design and usability are outstanding.,4
+CUST0817,"The product is okay, does what it's supposed to.",2
+CUST0818,"The product is okay, does what it's supposed to.",3
+CUST0819,Highly durable and easy to use.,4
+CUST0820,Impressive features and reliable functionality.,5
+CUST0821,Arrived broken and customer support was unhelpful.,2
+CUST0822,"Not bad, but not great either.",3
+CUST0823,Would not recommend this to anyone.,2
+CUST0824,Five stars for quality and efficiency.,4
+CUST0825,Very disappointed with the quality and support.,1
+CUST0826,Top-notch product. Excellent customer service as well.,5
+CUST0827,Fairly priced and average in performance.,2
+CUST0828,Fairly priced and average in performance.,3
+CUST0829,This product exceeded my expectations and works flawlessly.,5
+CUST0830,Five stars for quality and efficiency.,4
+CUST0831,Mediocre quality but serves the purpose.,2
+CUST0832,Highly durable and easy to use.,5
+CUST0833,Poor performance and unreliable.,1
+CUST0834,"Not bad, but not great either.",2
+CUST0835,Highly durable and easy to use.,4
+CUST0836,"Terrible product, stopped working after a week.",2
+CUST0837,Product did not match the description.,1
+CUST0838,Quality is subpar and lacks durability.,2
+CUST0839,"Not bad, but not great either.",2
+CUST0840,Top-notch product. Excellent customer service as well.,5
+CUST0841,Top-notch product. Excellent customer service as well.,4
+CUST0842,Highly durable and easy to use.,5
+CUST0843,Absolutely love it. Will definitely purchase again.,4
+CUST0844,Very satisfied with the quality and performance.,4
+CUST0845,Would not recommend this to anyone.,2
+CUST0846,"The product is okay, does what it's supposed to.",2
+CUST0847,It's functional but has its flaws.,3
+CUST0848,Very disappointed with the quality and support.,2
+CUST0849,"Neither good nor bad, just acceptable.",3
+CUST0850,Impressive features and reliable functionality.,4
+CUST0851,Product did not match the description.,2
+CUST0852,Absolutely love it. Will definitely purchase again.,5
+CUST0853,Highly durable and easy to use.,5
+CUST0854,Absolutely love it. Will definitely purchase again.,5
+CUST0855,"It works fine, but I was expecting more.",2
+CUST0856,Would not recommend this to anyone.,1
+CUST0857,Poor performance and unreliable.,1
+CUST0858,Mediocre quality but serves the purpose.,2
+CUST0859,Very disappointed with the quality and support.,2
+CUST0860,Well built and performs better than expected.,4
+CUST0861,Product did not match the description.,1
+CUST0862,The design and usability are outstanding.,5
+CUST0863,"Some features are useful, others are not.",2
+CUST0864,Well built and performs better than expected.,5
+CUST0865,Product did not match the description.,2
+CUST0866,Had a bad experience. Would not buy again.,2
+CUST0867,"Some features are useful, others are not.",2
+CUST0868,Great value for the price. Highly recommend it.,4
+CUST0869,Highly durable and easy to use.,4
+CUST0870,The design and usability are outstanding.,4
+CUST0871,Product did not match the description.,2
+CUST0872,Great value for the price. Highly recommend it.,5
+CUST0873,Highly durable and easy to use.,4
+CUST0874,"It works fine, but I was expecting more.",2
+CUST0875,Would not recommend this to anyone.,1
+CUST0876,Great value for the price. Highly recommend it.,4
+CUST0877,"Not bad, but not great either.",2
+CUST0878,Poor performance and unreliable.,1
+CUST0879,This product exceeded my expectations and works flawlessly.,5
+CUST0880,Product is decent but could use improvements.,3
+CUST0881,The design and usability are outstanding.,5
+CUST0882,Impressive features and reliable functionality.,5
+CUST0883,Quality is subpar and lacks durability.,2
+CUST0884,"Average experience, nothing special.",3
+CUST0885,"Average experience, nothing special.",2
+CUST0886,Absolutely love it. Will definitely purchase again.,4
+CUST0887,Very disappointed with the quality and support.,2
+CUST0888,Extremely dissatisfied. Waste of money.,1
+CUST0889,Extremely dissatisfied. Waste of money.,1
+CUST0890,Top-notch product. Excellent customer service as well.,4
+CUST0891,"Not worth the money, poorly made.",2
+CUST0892,Impressive features and reliable functionality.,4
+CUST0893,Great value for the price. Highly recommend it.,5
+CUST0894,Absolutely love it. Will definitely purchase again.,5
+CUST0895,Impressive features and reliable functionality.,5
+CUST0896,Absolutely love it. Will definitely purchase again.,4
+CUST0897,The design and usability are outstanding.,5
+CUST0898,Great value for the price. Highly recommend it.,4
+CUST0899,Impressive features and reliable functionality.,4
+CUST0900,Product did not match the description.,1
+CUST0901,Five stars for quality and efficiency.,4
+CUST0902,"It works fine, but I was expecting more.",2
+CUST0903,Well built and performs better than expected.,4
+CUST0904,Quality is subpar and lacks durability.,2
+CUST0905,Great value for the price. Highly recommend it.,5
+CUST0906,Product did not match the description.,2
+CUST0907,Very satisfied with the quality and performance.,4
+CUST0908,Five stars for quality and efficiency.,5
+CUST0909,The design and usability are outstanding.,5
+CUST0910,Would not recommend this to anyone.,2
+CUST0911,Great value for the price. Highly recommend it.,5
+CUST0912,"Not bad, but not great either.",3
+CUST0913,Product did not match the description.,2
+CUST0914,Had a bad experience. Would not buy again.,2
+CUST0915,Fairly priced and average in performance.,2
+CUST0916,"Neither good nor bad, just acceptable.",2
+CUST0917,Highly durable and easy to use.,5
+CUST0918,Absolutely love it. Will definitely purchase again.,4
+CUST0919,Great value for the price. Highly recommend it.,5
+CUST0920,It's functional but has its flaws.,3
+CUST0921,Well built and performs better than expected.,5
+CUST0922,Very satisfied with the quality and performance.,4
+CUST0923,Poor performance and unreliable.,1
+CUST0924,Five stars for quality and efficiency.,4
+CUST0925,Five stars for quality and efficiency.,4
+CUST0926,"Some features are useful, others are not.",2
+CUST0927,Five stars for quality and efficiency.,4
+CUST0928,Very disappointed with the quality and support.,2
+CUST0929,Very satisfied with the quality and performance.,5
+CUST0930,Product did not match the description.,1
+CUST0931,"Neither good nor bad, just acceptable.",3
+CUST0932,Impressive features and reliable functionality.,5
+CUST0933,Very satisfied with the quality and performance.,5
+CUST0934,"Neither good nor bad, just acceptable.",2
+CUST0935,Top-notch product. Excellent customer service as well.,5
+CUST0936,"The product is okay, does what it's supposed to.",3
+CUST0937,Well built and performs better than expected.,5
+CUST0938,Five stars for quality and efficiency.,4
+CUST0939,Well built and performs better than expected.,4
+CUST0940,Top-notch product. Excellent customer service as well.,4
+CUST0941,Extremely dissatisfied. Waste of money.,2
+CUST0942,This product exceeded my expectations and works flawlessly.,4
+CUST0943,Extremely dissatisfied. Waste of money.,2
+CUST0944,"Average experience, nothing special.",2
+CUST0945,Great value for the price. Highly recommend it.,4
+CUST0946,Great value for the price. Highly recommend it.,5
+CUST0947,Product did not match the description.,1
+CUST0948,Arrived broken and customer support was unhelpful.,2
+CUST0949,It's functional but has its flaws.,2
+CUST0950,This product exceeded my expectations and works flawlessly.,5
+CUST0951,"Average experience, nothing special.",2
+CUST0952,Top-notch product. Excellent customer service as well.,4
+CUST0953,Poor performance and unreliable.,2
+CUST0954,This product exceeded my expectations and works flawlessly.,4
+CUST0955,Would not recommend this to anyone.,1
+CUST0956,Great value for the price. Highly recommend it.,4
+CUST0957,This product exceeded my expectations and works flawlessly.,4
+CUST0958,Product did not match the description.,1
+CUST0959,Great value for the price. Highly recommend it.,4
+CUST0960,Extremely dissatisfied. Waste of money.,1
+CUST0961,Very satisfied with the quality and performance.,4
+CUST0962,This product exceeded my expectations and works flawlessly.,5
+CUST0963,Very disappointed with the quality and support.,2
+CUST0964,The design and usability are outstanding.,4
+CUST0965,Five stars for quality and efficiency.,5
+CUST0966,Absolutely love it. Will definitely purchase again.,4
+CUST0967,Had a bad experience. Would not buy again.,1
+CUST0968,Arrived broken and customer support was unhelpful.,1
+CUST0969,Very satisfied with the quality and performance.,5
+CUST0970,"Not worth the money, poorly made.",1
+CUST0971,Very disappointed with the quality and support.,1
+CUST0972,Great value for the price. Highly recommend it.,5
+CUST0973,Well built and performs better than expected.,5
+CUST0974,Five stars for quality and efficiency.,4
+CUST0975,Absolutely love it. Will definitely purchase again.,4
+CUST0976,Would not recommend this to anyone.,1
+CUST0977,"Average experience, nothing special.",3
+CUST0978,"It works fine, but I was expecting more.",3
+CUST0979,This product exceeded my expectations and works flawlessly.,4
+CUST0980,"Neither good nor bad, just acceptable.",2
+CUST0981,Would not recommend this to anyone.,2
+CUST0982,Top-notch product. Excellent customer service as well.,5
+CUST0983,Had a bad experience. Would not buy again.,1
+CUST0984,Very disappointed with the quality and support.,2
+CUST0985,The design and usability are outstanding.,5
+CUST0986,Well built and performs better than expected.,5
+CUST0987,Quality is subpar and lacks durability.,2
+CUST0988,Highly durable and easy to use.,5
+CUST0989,Impressive features and reliable functionality.,5
+CUST0990,Would not recommend this to anyone.,1
+CUST0991,Had a bad experience. Would not buy again.,2
+CUST0992,Well built and performs better than expected.,4
+CUST0993,Poor performance and unreliable.,2
+CUST0994,It's functional but has its flaws.,3
+CUST0995,"The product is okay, does what it's supposed to.",3
+CUST0996,Well built and performs better than expected.,4
+CUST0997,Great value for the price. Highly recommend it.,4
+CUST0998,Impressive features and reliable functionality.,4
+CUST0999,Poor performance and unreliable.,1
+CUST1000,Five stars for quality and efficiency.,4
